@@ -7,6 +7,7 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 ---
 
 ##  Features
+<img width="1913" height="1033" alt="Screenshot 2026-07-18 150638" src="https://github.com/user-attachments/assets/3b9f7285-334e-4de9-ba5f-e3bea7fccd20" />
 
 - **On-Demand Discord Sync:** Select any server and text channel your bot is member of.
 - **Precise Date & Time Ranges:** Set exact start and end boundaries to target specific conversations (e.g., meetings, overnight discussions, weekly updates).
