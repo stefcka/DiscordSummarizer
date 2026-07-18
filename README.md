@@ -6,7 +6,7 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 
 ---
 
-## ✨ Features
+##  Features
 
 - **On-Demand Discord Sync:** Select any server and text channel your bot is member of.
 - **Precise Date & Time Ranges:** Set exact start and end boundaries to target specific conversations (e.g., meetings, overnight discussions, weekly updates).
@@ -19,7 +19,7 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React 19, TypeScript, Vite, Vanilla CSS (Modern Dark Mode & Custom Glassmorphism).
 - **Backend:** Rust, Tauri v2 (for secure API handling, local system config operations, and native performance).
@@ -27,7 +27,7 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running the application, make sure you have the following installed and configured:
 
@@ -52,7 +52,7 @@ Before running the application, make sure you have the following installed and c
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Installation
 Clone the repository and install the dependencies:
@@ -76,7 +76,7 @@ We have provided a double-clickable batch script to make launching easy without 
 
 ---
 
-## 🛡️ Security Best Practices
+##  Security Best Practices
 
 > [!IMPORTANT]
 > **Keep your Bot Token private.** 
@@ -88,16 +88,16 @@ We have provided a double-clickable batch script to make launching easy without 
 
 ---
 
-## ⚙️ Configuration & Distribution
+##  Configuration & Distribution
 
 1. Enter your **Bot Token**, **Ollama API URL**, and **Ollama Model** in the settings panel.
 2. Click **Connect** to fetch your server lists.
-3. To share this setup with your team/members, click **💾 Export Config for Members**.
+3. To share this setup with your team/members, click ** Export Config for Members**.
 4. This writes a `config.json` next to your compiled executable.
 5. When other users launch the app with that `config.json` file in the same directory, it will load automatically, connect, and hide the Developer Settings pane to keep the UI clean!
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
