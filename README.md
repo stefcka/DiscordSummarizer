@@ -10,6 +10,7 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 <img width="1900" height="1029" alt="Screenshot 2026-07-18 152037" src="https://github.com/user-attachments/assets/8a74839e-e9cf-4049-980d-8ef199dd2544" />
 
 
+
 - **On-Demand Discord Sync:** Select any server and text channel your bot is member of.
 - **Precise Date & Time Ranges:** Set exact start and end boundaries to target specific conversations (e.g., meetings, overnight discussions, weekly updates).
 - **High-Performance Snowflake Pagination:** The Rust backend calculates a custom Discord Snowflake ID from your selected end-range, paginating backwards instantly and avoiding rate-limits.
@@ -17,6 +18,8 @@ It also supports pasting manual raw transcripts to synthesize and format discuss
 - **Dual-Pane Markdown Panel:** Live preview your rendered summary or edit the raw markdown output directly in the app before publishing.
 - **One-Click Publish:** Send the final styled summary directly to a destination channel in Discord.
 - **Zero-Configuration Client Mode:** Export settings to a portable `config.json` file next to the app's executable. Other members can run the app with pre-configured tokens and models in a clean, developer-hidden UI.
+
+
 <img width="1373" height="848" alt="Screenshot 2026-07-18 152300" src="https://github.com/user-attachments/assets/f2ebe5b8-e18d-40a0-beea-4799b0e855b9" />
 
 ---
